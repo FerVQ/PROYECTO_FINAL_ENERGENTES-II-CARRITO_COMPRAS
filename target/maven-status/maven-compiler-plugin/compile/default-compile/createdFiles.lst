@@ -1,0 +1,15 @@
+com\fvq\modelo\DetalleCompra.class
+com\fvq\modelo\Producto.class
+com\fvq\modelo\Categoria.class
+com\fvq\modelo\ClienteDAO.class
+com\fvq\modelo\Rol.class
+com\fvq\modelo\ComprasDAO.class
+com\fvq\modelo\Tarjeta.class
+com\fvq\config\Conexion.class
+com\fvq\modelo\Pago.class
+com\fvq\modelo\Carrito.class
+com\fvq\controlador\Controlador.class
+com\fvq\config\Fecha.class
+com\fvq\modelo\Cliente.class
+com\fvq\modelo\Compra.class
+com\fvq\modelo\ProductoDAO.class
